@@ -1,5 +1,7 @@
-my_string = 'codeclan'
+my_string_1 = 'codeclan_'
+my_string_2 = 'e43/'
 my_number = 108
 
-multiply = my_string * my_number
+concat = my_string_1 + my_string_2
+multiply = concat * my_number
 print(multiply)
